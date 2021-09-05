@@ -1,0 +1,113 @@
+.hadear{
+  background-color: #3498db;
+}
+.hadear-logo img{width: 110px;height: auto;}
+.menu{
+}
+.menu ul{list-style: none;text-align: right;margin-bottom: 0px;}
+.menu ul li{ display: inline-block;
+  margin-left: -4px;
+}
+.menu ul li a{
+  color: white;
+  text-decoration: none;
+  padding: 0px 20px;
+  line-height: 62px;
+  display: block;
+  border-right: 1px solid white;
+  transition: .3s;
+}
+.menu ul li:first-child{
+  border-left: 1px solid white;;
+}
+.menu ul li a:hover{
+    background-color: #2980b9;
+}
+/* hadear end */
+.banear{
+  background-image: url(https://kriesi.at/themes/enfold-2017/wp-content/uploads/sites/66/2017/02/banner-cc-1030x515.jpg);
+  padding: 200px 0;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+.text-b{
+  text-align: center;
+}
+.text-b h2 {
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.46);
+  display: inline-block;
+  padding: 4px 14px;
+  
+}
+.text-b h3 {
+  background-color: rgba(31, 31, 215, 0.41);
+  color: white;
+  margin-top: 31px;
+  padding: 7px 17px;
+  font-size: 32px;
+  border-radius: 3px;
+  display: inline-block;
+}
+/* servises */
+.servis{
+  background-color: rgb(223, 218, 218);
+}
+/* col-4 */
+span{
+  font-size: 30px;
+  border-radius: 0px 21px;
+  background-color: #5ba0d7;
+  color: white;
+  width: 60px;
+  height: 60px;
+  margin: auto;
+  display: block;
+  line-height: 60px;
+  margin-top: 16px;
+  margin-bottom: 10px;
+}
+.col-md-3 h2{
+  
+ }
+.col-md-3 ul{
+  list-style: none;
+}
+.col-md-3 ul li{
+  margin-bottom: 8px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 2px 1px;
+  background-color: rgb(241, 241, 241);
+}
+/* fotter */
+
+.fotter-tex{}
+.fotter-tex p{
+  margin-bottom: 0px;
+  color: white;
+  padding: 20px 0;
+}
+
+
+.socil{}
+.socil ul{
+ margin-bottom: 0px;
+}
+.socil ul li{
+  display: inline-block;
+
+}
+.socil ul li a{
+  color: white;
+  padding: 20px 5px;
+  display: block;
+  font-size: 20px;
+  transition: .3s;
+}
+.socil ul li:hover a{
+  background-color: rgb(37, 37, 134);
+}
